@@ -15,8 +15,8 @@ ___
 ---
 ---
 ## sort
-- [ ] Bubble Sort
-- [ ] Selection Sort
+- [X] Bubble Sort
+- [X] Selection Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
