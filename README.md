@@ -1,9 +1,10 @@
 
 ---
 ## CP
-- [ ] [450 dsa](https://450dsa.com)
-- [ ] [lc top 150](https://leetcode.com/studyplan/top-interview-150/)
-- [ ] [lc 75](https://leetcode.com/studyplan/leetcode-75/)
+- [ ] [450 DSA](https://450dsa.com)
+- [ ] [LeetCode top 150](https://leetcode.com/studyplan/top-interview-150/)
+- [ ] [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
+- [ ] [NeetCode 150](https://neetcode.io/roadmap)
 ---
 ___
 ## search
@@ -67,19 +68,13 @@ ___
   - [ ] Strategy
   - [ ] Template Method
   - [ ] Visitor
-
 ---
 ---
-## DBMS
-
+## Misc
+- [ ] Clean code 
+- [ ] SQL
+- [ ] DBMS
+- [ ] LLD
+- [ ] HLD
 ---
----
-## SQL
----
----
-## LLD
----
----
-## HLD
----
----
+prep
