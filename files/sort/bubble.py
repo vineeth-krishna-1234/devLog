@@ -1,6 +1,6 @@
 # ref https://www.programiz.com/dsa/bubble-sort
 from typing import Any, List
-from sort import Sort
+from sort.baseClass import Sort
 import operator
 
 

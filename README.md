@@ -9,7 +9,7 @@
 ___
 ## search
 - [X] Linear Search
-- [ ] Binary Search
+- [X] Binary Search
 - [ ] Depth-First Search (DFS)
 - [ ] Breadth-First Search (BFS)
 ---

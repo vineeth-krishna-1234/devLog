@@ -1,4 +1,4 @@
-from .search import Search
+from search.baseClass import Search
 from typing import List, Any
 
 

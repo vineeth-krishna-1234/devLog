@@ -1,7 +1,7 @@
 # ref https://www.programiz.com/dsa/selection-sort
 
 from typing import Any, List
-from sort import Sort
+from sort.baseClass import Sort
 import operator
 
 
