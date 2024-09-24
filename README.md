@@ -63,7 +63,7 @@ ___
   - [ ] Iterator
   - [ ] Mediator
   - [ ] Memento
-  - [ ] Observer
+  - [x] Observer
   - [ ] State
   - [ ] Strategy
   - [ ] Template Method
