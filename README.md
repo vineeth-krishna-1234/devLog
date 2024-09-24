@@ -70,6 +70,18 @@ ___
   - [ ] Visitor
 ---
 ---
+## OOPs
+- [ ] Abstraction
+- [ ] Encapsulation
+- [ ] Inheritance
+- [ ] Polymorphism
+- [ ] Coupling
+- [ ] Cohesion
+- [ ] Association
+- [ ] Aggregation
+- [ ] Composition
+---
+---
 ## Misc
 - [ ] Clean code 
 - [ ] SQL
