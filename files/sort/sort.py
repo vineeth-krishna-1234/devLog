@@ -30,6 +30,6 @@ class Sort(ABC):
         self.direction = direction
 
     @abstractmethod
-    def sort(self, target) -> int:
+    def sort(self) -> int:
         # return the index of the first match
         pass
