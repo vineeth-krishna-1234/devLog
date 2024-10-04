@@ -29,8 +29,11 @@ ___
 ---
 ## Data Structure
 - [ ] Linked List
+  - [X] Singly Linked List
 - [ ] Stack
 - [ ] Queue
+  - [X] Array Queue
+  - [X] Linked List Queue
 - [ ] Binary Tree
 - [ ] Binary Search Tree (BST)
 - [ ] Heap
@@ -89,4 +92,5 @@ ___
 - [ ] LLD
 - [ ] HLD
 ---
-prep
+## principles
+- [ ] SOLID
