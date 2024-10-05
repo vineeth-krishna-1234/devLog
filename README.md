@@ -1,4 +1,3 @@
-
 ---
 ## CP
 - [ ] [450 DSA](https://450dsa.com)
@@ -6,17 +5,24 @@
 - [ ] [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
 - [ ] [NeetCode 150](https://neetcode.io/roadmap)
 ---
-___
+
+---
+
 ## search
-- [X] Linear Search
-- [X] Binary Search
+
+- [x] Linear Search
+- [x] Binary Search
 - [ ] Depth-First Search (DFS)
 - [ ] Breadth-First Search (BFS)
+
 ---
+
 ---
+
 ## sort
-- [X] Bubble Sort
-- [X] Selection Sort
+
+- [x] Bubble Sort
+- [x] Selection Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
@@ -25,25 +31,33 @@ ___
 - [ ] Counting Sort
 - [ ] Shell Sort
 - [ ] Bucket Sort
+
 ---
+
 ---
+
 ## Data Structure
+
 - [ ] Linked List
-  - [X] Singly Linked List
+  - [x] Singly Linked List
 - [ ] Stack
 - [ ] Queue
-  - [X] Array Queue
-  - [X] Linked List Queue
+  - [x] Array Queue
+  - [x] Linked List Queue
 - [ ] Binary Tree
 - [ ] Binary Search Tree (BST)
 - [ ] Heap
 - [ ] Graph
 - [ ] Trie
+
 ---
+
 ---
+
 ## Design Patterns
 
 - [ ] **Creational Patterns**
+
   - [ ] Singleton
   - [ ] Factory Method
   - [ ] Abstract Factory
@@ -51,6 +65,7 @@ ___
   - [ ] Prototype
 
 - [ ] **Structural Patterns**
+
   - [ ] Adapter
   - [ ] Bridge
   - [ ] Composite
@@ -68,12 +83,16 @@ ___
   - [ ] Memento
   - [x] Observer
   - [ ] State
-  - [X] Strategy
+  - [x] Strategy
   - [ ] Template Method
   - [ ] Visitor
+
 ---
+
 ---
+
 ## OOPs
+
 - [ ] Abstraction
 - [ ] Encapsulation
 - [ ] Inheritance
@@ -83,14 +102,21 @@ ___
 - [ ] Association
 - [ ] Aggregation
 - [ ] Composition
+
 ---
+
 ---
+
 ## Misc
-- [ ] Clean code 
+
+- [ ] Clean code
 - [ ] SQL
 - [ ] DBMS
 - [ ] LLD
 - [ ] HLD
+
 ---
+
 ## principles
+
 - [ ] SOLID
