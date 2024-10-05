@@ -1,0 +1,2 @@
+from .array_stack import TestArrayStack
+from .linked_list_stack import TestLinkedListStack
