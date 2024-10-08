@@ -40,7 +40,7 @@
 
 - [ ] Linked List
   - [x] Singly Linked List
-- [ ] Stack
+- [x] Stack
 - [ ] Queue
   - [x] Array Queue
   - [x] Linked List Queue
@@ -120,3 +120,14 @@
 ## principles
 
 - [ ] SOLID
+- [ ] RAID
+
+
+
+
+## Later
+- [ ] Linked List
+  - [ ] Sort Linked List 
+  - [ ] rotate Linked List 
+  - [ ] Remove Multiple Values  
+
