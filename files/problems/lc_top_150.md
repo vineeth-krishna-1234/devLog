@@ -15,7 +15,7 @@
     <tr>
       <td>Merge Sorted Array</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Remove Element</td>
