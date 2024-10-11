@@ -20,12 +20,12 @@
     <tr>
       <td>Remove Element</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Remove Duplicates from Sorted Array</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Remove Duplicates from Sorted Array II</td>
@@ -35,7 +35,7 @@
     <tr>
       <td>Majority Element</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Rotate Array</td>
@@ -45,7 +45,7 @@
     <tr>
       <td>Best Time to Buy and Sell Stock</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Best Time to Buy and Sell Stock II</td>
@@ -95,7 +95,7 @@
     <tr>
       <td>Roman to Integer</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Integer to Roman</td>
@@ -105,12 +105,12 @@
     <tr>
       <td>Length of Last Word</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Longest Common Prefix</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Reverse Words in a String</td>
