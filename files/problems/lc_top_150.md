@@ -125,7 +125,7 @@
     <tr>
       <td>Find the Index of the First Occurrence in a String</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Text Justification</td>
@@ -140,7 +140,7 @@
     <tr>
       <td>Valid Palindrome</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Is Subsequence</td>
