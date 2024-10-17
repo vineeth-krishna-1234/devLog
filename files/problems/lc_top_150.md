@@ -145,7 +145,7 @@
     <tr>
       <td>Is Subsequence</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Two Sum II - Input Array Is Sorted</td>
@@ -225,22 +225,22 @@
     <tr>
       <td>Ransom Note</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Isomorphic Strings</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Word Pattern</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Valid Anagram</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Group Anagrams</td>
