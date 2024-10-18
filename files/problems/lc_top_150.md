@@ -250,12 +250,12 @@
     <tr>
       <td>Two Sum</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Happy Number</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Contains Duplicate II</td>
