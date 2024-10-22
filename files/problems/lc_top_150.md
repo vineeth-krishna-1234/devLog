@@ -300,7 +300,7 @@
     <tr>
       <td>Valid Parentheses</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Simplify Path</td>
@@ -330,7 +330,7 @@
     <tr>
       <td>Linked List Cycle</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Add Two Numbers</td>
@@ -340,7 +340,7 @@
     <tr>
       <td>Merge Two Sorted Lists</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Copy List with Random Pointer</td>
