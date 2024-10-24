@@ -390,17 +390,17 @@
     <tr>
       <td>Maximum Depth of Binary Tree</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Same Tree</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Invert Binary Tree</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Symmetric Tree</td>
