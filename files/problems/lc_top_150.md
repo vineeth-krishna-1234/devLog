@@ -260,7 +260,7 @@
     <tr>
       <td>Contains Duplicate II</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Longest Consecutive Sequence</td>
