@@ -170,12 +170,12 @@
     <tr>
       <td>Minimum Size Subarray Sum</td>
       <td>🟡</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Longest Substring Without Repeating Characters</td>
       <td>🟡</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Substring with Concatenation of All Words</td>
