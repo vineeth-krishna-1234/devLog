@@ -275,7 +275,7 @@
     <tr>
       <td>Summary Ranges</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Merge Intervals</td>
