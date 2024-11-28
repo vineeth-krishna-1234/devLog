@@ -430,7 +430,7 @@
     <tr>
       <td>Path Sum</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Sum Root to Leaf Numbers</td>
@@ -450,7 +450,7 @@
     <tr>
       <td>Count Complete Tree Nodes</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td colspan="4" align="center">
@@ -465,7 +465,7 @@
     <tr>
       <td>Average of Levels in Binary Tree</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Binary Tree Level Order Traversal</td>
