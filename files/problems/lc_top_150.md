@@ -485,7 +485,7 @@
     <tr>
       <td>Minimum Absolute Difference in BST</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Kth Smallest Element in a BST</td>
@@ -660,7 +660,7 @@
     <tr>
       <td>Search Insert Position</td>
       <td>🟢</td>
-      <td></td>
+      <td>X</td>
     </tr>
     <tr>
       <td>Search a 2D Matrix</td>
