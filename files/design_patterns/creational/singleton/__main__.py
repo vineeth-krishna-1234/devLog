@@ -1,37 +1,25 @@
 from threading import Lock
 
 
-class DatabaseConnectionSingleton:
+class Database:
     _instance = None
+    _connection = None
     _lock = Lock()
 
-    def __new__(cls, *args, **kwargs):
-        # Ensures thread-safe singleton creation
+    def __new__(cls):
         if not cls._instance:
             with cls._lock:
                 if not cls._instance:
-                    cls._instance = super(DatabaseConnectionSingleton, cls).__new__(
-                        cls, *args, **kwargs
-                    )
+                    cls._instance = super(Database, cls).__new__(cls)
         return cls._instance
 
     def __init__(self):
-        if not hasattr(self, "_initialized"):
-            self._initialized = True
-            self._connection = ""  # create connection
-            self._cursor = self._connection.cursor()
-
-    def get_connection(self):
-        return self._connection
-
-    def close_connection(self):
-        if self._connection:
-            self._connection.close()
-            self._connection = None
-            self._cursor = None
+        if not self._connection:
+            self._connection = "connected"
 
 
-# Example usage
 if __name__ == "__main__":
-    db = DatabaseConnectionSingleton("example.db")
-
+    instance_1 = Database()
+    instance_2 = Database()
+    print(instance_1 == instance_2)
+    print(instance_1._connection == instance_2._connection)

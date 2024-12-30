@@ -58,7 +58,7 @@
 
 - [ ] **Creational Patterns**
 
-  - [ ] Singleton
+  - [x] Singleton
   - [ ] Factory Method
   - [ ] Abstract Factory
   - [ ] Builder
@@ -108,7 +108,7 @@
 ---
 
 ## Misc
-
+- [ ] Threading
 - [ ] Clean code
 - [ ] SQL
 - [ ] DBMS
@@ -122,12 +122,4 @@
 - [ ] SOLID
 - [ ] RAID
 
-
-
-
-## Later
-- [ ] Linked List
-  - [ ] Sort Linked List 
-  - [ ] rotate Linked List 
-  - [ ] Remove Multiple Values  
 
