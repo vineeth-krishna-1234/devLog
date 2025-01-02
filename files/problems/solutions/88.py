@@ -4,15 +4,23 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         """
 
-        pointer_x = m - 1
-        pointer_y = n - 1
-        placement_pointer = len(nums1) - 1
-
-        while pointer_y >= 0:
-            if pointer_x >= 0 and nums1[pointer_x] > nums2[pointer_y]:
-                nums1[placement_pointer] = nums1[pointer_x]
-                pointer_x -= 1
+        placement_index = len(nums1)-1 
+        while n and m:
+            if nums1[m-1]>nums2[n-1]:
+                nums1[placement_index]=nums1[m-1]
+                m-=1
+                placement_index-=1
             else:
-                nums1[placement_pointer] = nums2[pointer_y]
-                pointer_y -= 1
-            placement_pointer -= 1
+                nums1[placement_index]=nums2[n-1]
+                n-=1
+                placement_index-=1
+        while n:
+            nums1[placement_index]=nums2[n-1]
+            n-=1
+            placement_index-=1
+        while m:
+            nums1[placement_index]=nums1[m-1]
+            m-=1
+            placement_index-=1
+
+
